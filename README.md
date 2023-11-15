@@ -1,10 +1,11 @@
 # 🇬🇪 Georgian NER
 
-გამარჯობა! This repository contains my resources about Named Entity Recogntion for Georgian.
+გამარჯობა! This repository contains my resources about Named Entity Recognition for Georgian.
 
 # English-Georgian NER Model with Flair
 
-We fine-tune a NER Model with Flair on English and Georgian training splits of WikiANN dataset (Rahimi splits).
+We fine-tune a NER Model with Flair on English and Georgian training splits of WikiANN dataset
+([Rahimi et al.](https://www.aclweb.org/anthology/P19-1015) splits).
 
 Based on [this repository](https://github.com/stefan-it/autotrain-flair-mobie) the fine-tuning is done with the
 awesome [Flair](https://github.com/flairNLP/flair) library, incl. support for Hugging Face's [AutoTrain](https://github.com/huggingface/autotrain-advanced).
