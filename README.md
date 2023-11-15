@@ -4,7 +4,7 @@
 
 # English-Georgian NER Model with Flair
 
-We fine-tune a NER Model with Flair on English and Georgian split of WikiANN dataset (Rahimi splits).
+We fine-tune a NER Model with Flair on English and Georgian training splits of WikiANN dataset (Rahimi splits).
 
 Based on [this repository](https://github.com/stefan-it/autotrain-flair-mobie) the fine-tuning is done with the
 awesome [Flair](https://github.com/flairNLP/flair) library, incl. support for Hugging Face's [AutoTrain](https://github.com/huggingface/autotrain-advanced).
