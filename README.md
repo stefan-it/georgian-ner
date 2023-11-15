@@ -11,12 +11,12 @@ awesome [Flair](https://github.com/flairNLP/flair) library, incl. support for Hu
 
 We use a basic hyper-parameter search with the following configuration:
 
-| Parameter     | Value            |
-|---------------|------------------|
-| Learning Rate | `5e-06`          |
-| Batch Size    | `4`              |
-| Epoch         | `10`             |
-| Seeds         | `[1, 2, 3, 4, 5] |
+| Parameter     | Value             |
+|---------------|-------------------|
+| Learning Rate | `5e-06`           |
+| Batch Size    | `4`               |
+| Epoch         | `10`              |
+| Seeds         | `[1, 2, 3, 4, 5]` |
 
 We use [XLM-R Large](https://huggingface.co/xlm-roberta-large) as base model.
 
