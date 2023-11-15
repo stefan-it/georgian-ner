@@ -28,3 +28,7 @@ The following environment variables needs to be set when using AutoTrain:
 | `HUB_ORG_NAME`       | Username or organization under models will be uploaded to                                         |
 
 The fine-tuning can then be started by running the `script.py` script.
+
+# Changelog
+
+* 15.11.2023: Initial version of this repository.
