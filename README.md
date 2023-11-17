@@ -30,12 +30,12 @@ The following environment variables needs to be set when using AutoTrain:
 
 The fine-tuning can then be started by running the `script.py` script.
 
-# Model Card Creation
+## Model Card Creation
 
 The [`ModelCardCreation.ipynb`](ModelCardCreation.ipynb) notebook shows how to automatically generate model cards for
 all uploaded models. This includes also a results overview table with linked models.
 
-# Fine-tuned Models
+## Fine-tuned Models
 
 All fine-tuned models are released on the Hugging Face Hub, incl. a nice inference widget:
 
