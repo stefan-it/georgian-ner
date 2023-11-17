@@ -30,6 +30,20 @@ The following environment variables needs to be set when using AutoTrain:
 
 The fine-tuning can then be started by running the `script.py` script.
 
+# Model Card Creation
+
+The [`ModelCardCreation.ipynb`](ModelCardCreation.ipynb) notebook shows how to automatically generate model cards for
+all uploaded models. This includes also a results overview table with linked models.
+
+# Fine-tuned Models
+
+All fine-tuned models are released on the Hugging Face Hub, incl. a nice inference widget:
+
+![Inference Widget](images/inference-widget.png)
+
+The fine-tuned models can be found [here](https://huggingface.co/models?search=autotrain-flair-georgian).
+
 # Changelog
 
+* 17.11.2023: Add model card creation and fine-tuned models sections. Mention fine-tuned models on Hub.
 * 15.11.2023: Initial version of this repository.
