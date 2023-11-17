@@ -41,7 +41,8 @@ All fine-tuned models are released on the Hugging Face Hub, incl. a nice inferen
 
 ![Inference Widget](images/inference-widget.png)
 
-The fine-tuned models can be found [here](https://huggingface.co/models?search=autotrain-flair-georgian).
+The fine-tuned models can be found [here](https://huggingface.co/models?search=autotrain-flair-georgian). Additionally,
+they can be found in [this collection](https://huggingface.co/collections/stefan-it/georgian-ner-models-6556bd33dd1c096392074791).
 
 # Changelog
 
